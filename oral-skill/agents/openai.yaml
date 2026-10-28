@@ -1,0 +1,4 @@
+interface:
+  display_name: "Oral skill"
+  short_description: "专四口语思辨陪练：AI 出话题并给参考句型，转写、优化、点评"
+  default_prompt: "Use $skill-name to start a TEM-4 critical thinking speaking practice round."
